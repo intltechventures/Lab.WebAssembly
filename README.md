@@ -1,5 +1,6 @@
-# Lab.WebAssembly
+# Lab.WebAssembly (WASM)
 A repository that serves as my lab for exploring WebAssembly
+
 
 ## References
 - https://webassembly.org/
@@ -54,6 +55,11 @@ A repository that serves as my lab for exploring WebAssembly
 ### 2019 
 
 - [WebAssembly for Web Developers (Google I/O ’19)](https://www.youtube.com/watch?v=njt-Qzw0mVY)
+
+
+### 2018 
+
+- [GOTO 2018 • A Cartoon Quest: New Adventures for WebAssembly • Lin Clark](https://www.youtube.com/watch?v=rZB9Er8aq4s)
 
 
 ### 2017 
