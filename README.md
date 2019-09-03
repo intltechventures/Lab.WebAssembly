@@ -53,7 +53,7 @@ A repository that serves as my lab for exploring WebAssembly
 
 ### 2019 
 
-- [WebAssembly Interface Types: Interoperate with All the Things![(https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
+- [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
 
 
 
