@@ -3,6 +3,7 @@ A repository that serves as my lab for exploring WebAssembly
 
 ## References
 - https://webassembly.org/
+  + https://webassembly.org/roadmap/
   + https://webassembly.org/docs/high-level-goals/
   + https://webassembly.org/getting-started/developers-guide/
   + https://webassembly.github.io/spec/
@@ -15,6 +16,8 @@ A repository that serves as my lab for exploring WebAssembly
 
 
 ## Learning Resources
+- https://mbebenita.github.io/WasmExplorer/
+
 - An introduction to WebAssembly
   + https://flaviocopes.com/webassembly/
 
@@ -42,6 +45,22 @@ A repository that serves as my lab for exploring WebAssembly
 
 ## Community Forums
 - https://stackoverflow.com/search?q=webassembly
+
+
+
+## YouTube Talks
+- https://www.youtube.com/results?search_query=webassembly
+
+### 2019 
+
+- [WebAssembly for Web Developers (Google I/O ’19)](https://www.youtube.com/watch?v=njt-Qzw0mVY)
+
+
+### 2017 
+
+- [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
+
+- [Compiling for the Web with WebAssembly (Google I/O '17)](https://www.youtube.com/watch?v=6v4E6oksar0&t=241s)
 
 
 
